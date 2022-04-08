@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Position</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="start_map">I am outdoors</string>
+    <string name="start_tracking">Start tracking!</string>
+    <string name="start_tracking_description">Click to Start Tracing</string>
+
+</resources>
